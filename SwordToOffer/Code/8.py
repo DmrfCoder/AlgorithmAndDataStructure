@@ -1,15 +1,14 @@
 # -*- coding:utf-8 -*-
 class Solution:
-    def jumpFloor(self, number):
-
+    def jumpFloorII(self, number):
         # write code here
         if number == 1:
             return 1
         elif number == 2:
             return 2
         else:
-            return self.jumpFloor(number - 1) + self.jumpFloor(number-2)
+            return 2 * self.jumpFloorII(number - 1)
 
 
 solution = Solution()
-print solution.jumpFloor(4)
+print solution.jumpFloorII(4)
