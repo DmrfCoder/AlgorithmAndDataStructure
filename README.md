@@ -11,4 +11,9 @@
 - [***矩形覆盖***](./SwordToOffer/Doc/矩形覆盖.md)
 - [二进制中1的个数](./SwordToOffer/Doc/二进制中1的个数.md)
 - [***数值的整数次方***](./SwordToOffer/Doc/数值的整数次方.md)
+- [调整数组顺序使奇数位于偶数前面](./SwordToOffer/Doc/调整数组顺序使奇数位于偶数前面.md)
+- [链表中倒数第k个节点](./SwordToOffer/Doc/链表中倒数第k个节点.md)
+- [反转链表](./SwordToOffer/Doc/反转链表.md)
+- [合并两个排序的链表](./SwordToOffer/Doc/合并两个排序的链表.md)
+- [树的子结构](./SwordToOffer/Doc/树的子结构.md)
 
