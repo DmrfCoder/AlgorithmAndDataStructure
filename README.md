@@ -15,5 +15,9 @@
 - [链表中倒数第k个节点](./SwordToOffer/Doc/链表中倒数第k个节点.md)
 - [反转链表](./SwordToOffer/Doc/反转链表.md)
 - [合并两个排序的链表](./SwordToOffer/Doc/合并两个排序的链表.md)
-- [树的子结构](./SwordToOffer/Doc/树的子结构.md)
+- [***树的子结构***](./SwordToOffer/Doc/树的子结构.md)
+- [***树的镜像***](./SwordToOffer/Doc/树的镜像.md)
+- [顺时针打印矩阵](./SwordToOffer/Doc/顺时针打印矩阵.md)
+
+
 
