@@ -17,7 +17,12 @@
 - [合并两个排序的链表](./SwordToOffer/Doc/合并两个排序的链表.md)
 - [***树的子结构***](./SwordToOffer/Doc/树的子结构.md)
 - [***树的镜像***](./SwordToOffer/Doc/树的镜像.md)
-- [顺时针打印矩阵](./SwordToOffer/Doc/顺时针打印矩阵.md)
+- [***顺时针打印矩阵***](./SwordToOffer/Doc/顺时针打印矩阵.md)
+- [***包含min函数的栈***](./SwordToOffer/Doc/包含min函数的栈.md)
+- [栈的压入&弹出顺序](./SwordToOffer/Doc/栈的压入&弹出顺序.md)
+- [从上往下打印二叉树](./SwordToOffer/Doc/从上往下打印二叉树.md)
+- [二叉搜索树的后序遍历](./SwordToOffer/Doc/二叉搜索树的后序遍历.md)
+- 
 
 
 
