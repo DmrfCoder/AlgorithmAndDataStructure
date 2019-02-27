@@ -52,7 +52,12 @@
 
 - [字符串的排列](./SwordToOffer/Doc/字符串的排列.md)
 
+- [***数组中出现次数超过一半的数字***](./SwordToOffer/Doc/数组中出现次数超过一半的数字.md)
+
+- [最小的K个数](./SwordToOffer/Doc/最小的K个数.md)
+
+- [连续子数组的最大和](./SwordToOffer/Doc/连续子数组的最大和.md)
+
+- [把数组排成最小的数](./SwordToOffer/Doc/把数组排成最小的数.md)
+
   
-
-
-
