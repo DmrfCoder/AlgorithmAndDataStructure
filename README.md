@@ -60,4 +60,13 @@
 
 - [把数组排成最小的数](./SwordToOffer/Doc/把数组排成最小的数.md)
 
+- [整数中1出现的次数](./SwordToOffer/Doc/整数中1出现的次数.md)
+
+- [***丑数***](./SwordToOffer/Doc/丑数.md)
+
+- [第一次只出现一次的字符](./SwordToOffer/Doc/第一次只出现一次的字符.md)
+
+- [数组中的逆序对](./SwordToOffer/Doc/数组中的逆序对.md)
+
   
+

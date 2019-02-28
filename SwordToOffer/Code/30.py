@@ -1,36 +1,35 @@
 # -*- coding:utf-8 -*-
 class Solution:
-
-    def PrintMinNumber(self, numbers):
+    def NumberOf1Between1AndN_Solution(self, n):
         # write code here
-        if numbers is None:
-            return ""
-        if len(numbers)==0:
-            return ""
-        strs = []
-        for item in numbers:
-            strs.append(str(item))
+        strN = str(n)
+        size = len(strN)
+        sum = 0
 
-        z = sorted(strs, cmp)
+        # 从个位开始
+        for i in range(size - 1, -1, -1):
+            curBit = int(strN[i])
+            multiValue = pow(10, size - 1 - i)
+            if i == 0:
+                biggerValue = 0
+            else:
+                biggerValue = strN[0:i]
+            if i == size - 1:
+                smallerValue = 0
+            else:
+                smallerValue = strN[i + 1:]
 
-        r=''
+            if curBit == 1:
+                count = int(biggerValue) * multiValue + int(smallerValue) + 1
+            elif curBit == 0:
+                count = int(biggerValue) * multiValue
+            else:
+                count = (int(biggerValue) + 1) * multiValue
 
-        for item in z:
-            r=r+item
+            sum += count
 
-
-        return int(r)
-
-
-def cmp(str1, str2):
-    s1 = str1 + str2
-    s2 = str2 + str1
-
-    if int(s1) < int(s2):
-        return -1
-    else:
-        return 0
+        return sum
 
 
 s = Solution()
-print s.PrintMinNumber([3,32,321])
+print s.NumberOf1Between1AndN_Solution(13)
