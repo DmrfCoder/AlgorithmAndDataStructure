@@ -35,6 +35,7 @@ def GuiBingSort(data):
     return GuiBingSort(data[0:index])+GuiBingSort(data[index:])
 
 
+
 s = Solution()
 #print s.InversePairs([1, 2, 3, 4, 5, 6, 7, 0])
 print GuiBingSort([1, 2, 3, 4, 5, 6, 7, 0])

@@ -68,5 +68,15 @@
 
 - [数组中的逆序对](./SwordToOffer/Doc/数组中的逆序对.md)
 
+- [两个链表的第一个公共节点](./SwordToOffer/Doc/两个链表的第一个公共节点.md)
+
+- [数字在排序数组中出现的次数](./SwordToOffer/Doc/数字在排序数组中出现的次数.md)
+
+- [二叉树的深度](./SwordToOffer/Doc/二叉树的深度.md)
+
+- [平衡二叉树](./SwordToOffer/Doc/平衡二叉树.md)
+
+- [***数组中只出现一次的数字***](./SwordToOffer/Doc/数组中只出现一次的数字.md)
+
   
 
