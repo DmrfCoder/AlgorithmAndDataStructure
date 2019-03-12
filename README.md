@@ -1,3 +1,5 @@
+计划完成牛客网剑指Offer习题以及LeetCode中的100+道，持续更新，剑指Offer的题主要用python，LeetCode的题会用Java。
+
 # 牛客网-剑指offer
 
 - [二维数组中的查找](./SwordToOffer/Doc/二维数组中的查找.md)
