@@ -78,5 +78,41 @@
 
 - [***数组中只出现一次的数字***](./SwordToOffer/Doc/数组中只出现一次的数字.md)
 
+- [和为s的连续正数序列](./SwordToOffer/Doc/和为s的连续正数序列.md)
+
+- [和为s的两个数字](./SwordToOffer/Doc/和为s的两个数字.md)
+
+- [左旋字符串](./SwordToOffer/Doc/左旋字符串.md)
+
+- [翻转单词序列](./SwordToOffer/Doc/翻转单词序列.md)
+
+- [扑克牌顺子](./SwordToOffer/Doc/扑克牌顺子.md)
+
+- [圆圈中的最后数字](./SwordToOffer/Doc/圆圈中的最后数字.md)
+
+- [不能用循环的1到n之和](./SwordToOffer/Doc/不能用循环的1到n之和.md)
+
+- [***不用加减乘除做加法***](./SwordToOffer/Doc/不用加减乘除做加法.md)
+
+- [将字符串转为整数](./SwordToOffer/Doc/将字符串转为整数.md)
+
+- [***寻找数组中任意一个重复的数字***](./SwordToOffer/Doc/寻找数组中任意一个重复的数字.md)
+
+- [***构建乘积数组***](./SwordToOffer/Doc/构建乘积数组.md)
+
+- [正则表达式匹配（未完成）](./SwordToOffer/Doc/正则表达式匹配.md)
+
+- [字符流中第一个不重复的字符（未完成）](./SwordToOffer/Doc/字符流中第一个不重复的字符.md)
+
+- [***最大陆地问题***](./SwordToOffer/Doc/最大陆地问题.md)
+
+- [***机器人的运动范围***](./SwordToOffer/Doc/机器人的运动范围.md)
+
+- [***矩阵中的路径***](./SwordToOffer/Doc/矩阵中的路径.md)
+
+- [滑动窗口的最大值](./SwordToOffer/Doc/滑动窗口的最大值.md)
+
+- [数据流的中位数（未完成）](./SwordToOffer/Doc/数据流的中位数.md)
+
   
 

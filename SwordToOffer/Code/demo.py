@@ -34,5 +34,4 @@ def partition(data, low, high):
 #a = [7, 4, 6, 3, 22, 9, 10, 2]
 #quickSort(a, 0, len(a) - 1)
 #print a
-a=input("")
-print a
+
