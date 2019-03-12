@@ -1,4 +1,4 @@
-计划完成牛客网剑指Offer习题以及LeetCode中的100+道，持续更新，剑指Offer的题主要用python，LeetCode的题会用Java。
+计划完成牛客网剑指Offer习题以及LeetCode中的100+道，持续更新，剑指Offer的题主要用python，LeetCode的题会用Java。另外Android、Java岗面试必备知识点与常见面试题见[另一个仓库](https://github.com/DmrfCoder/interview)，涉及Java、Android、数据库原理、操作系统、计算机网络等。
 
 # 牛客网-剑指offer
 
