@@ -102,9 +102,9 @@
 
 - [***构建乘积数组***](./SwordToOffer/Doc/构建乘积数组.md)
 
-- [正则表达式匹配（未完成）](./SwordToOffer/Doc/正则表达式匹配.md)
+- [***正则表达式匹配***](./SwordToOffer/Doc/正则表达式匹配.md)
 
-- [字符流中第一个不重复的字符（未完成）](./SwordToOffer/Doc/字符流中第一个不重复的字符.md)
+- [***字符流中第一个不重复的字符***](./SwordToOffer/Doc/字符流中第一个不重复的字符.md)
 
 - [***最大陆地问题***](./SwordToOffer/Doc/最大陆地问题.md)
 
@@ -114,7 +114,31 @@
 
 - [滑动窗口的最大值](./SwordToOffer/Doc/滑动窗口的最大值.md)
 
-- [数据流的中位数（未完成）](./SwordToOffer/Doc/数据流的中位数.md)
+- [***数据流的中位数***](./SwordToOffer/Doc/数据流的中位数.md)
+
+- [***数组中的逆序对***](./SwordToOffer/Doc/数组中的逆序对.md)
+
+- [表示数值的字符串](./SwordToOffer/Doc/表示数值的字符串.md)
+
+- [二叉搜索树的第k个节点](./SwordToOffer/Doc/二叉搜索树的第k个节点.md)
+
+- [序列化二叉树](./SwordToOffer/Doc/序列化二叉树.md)
+
+- [把二叉树打印成多行（层序遍历）](./SwordToOffer/Doc/把二叉树打印成多行.md)
+
+- [***按之字形打印二叉树***](./SwordToOffer/Doc/按之字形打印二叉树.md)
+
+- [对称的二叉树](./SwordToOffer/Doc/对称的二叉树.md)
+
+- [二叉树的下一个节点](./SwordToOffer/Doc/二叉树的下一个节点.md)
+
+- [**删除有序链表中重复的节点**](./SwordToOffer/Doc/删除链表中重复的节点.md)
+
+- [**链表中环的入口节点**](./SwordToOffer/Doc/链表中环的入口节点.md)
+
+- [**字符流中第一个不重复的字符**](./SwordToOffer/Doc/字符流中第一个不重复的字符.md)
+
+- [表示数字的字符串](./SwordToOffer/Doc/表示数字的字符串.md)
 
   
 

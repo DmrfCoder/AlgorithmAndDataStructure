@@ -8,49 +8,58 @@ class Solution:
     # s, pattern都是字符串
     def match(self, s, pattern):
         # write code here
+
         sizeS = len(s)
+        sizeP = len(pattern)
 
-        pre = ''
-        preChar = ''
-        patternIndex = len(pattern) - 1
-        j = sizeS - 1
-        while j >= 0:
-            curPatternChar = pattern[patternIndex]
-            curSChar = s[j]
-            if patternIndex == -1:
-                return False
-            if pattern[patternIndex] == curSChar:
-                patternIndex -= 1
-                j -= 1
-            elif curPatternChar != '*' and curPatternChar != '.':
-                if pre == '*':
-                    if preChar == '':
-                        preChar = curPatternChar
-                    if curSChar == preChar or preChar=='.':
-                        j -= 1
-                    else:
-                        patternIndex -= 1
-                        preChar = ''
-                        pre = ''
-
-                else:
-                    return False
-            elif curPatternChar == '.':
-                patternIndex -= 1
-                j -= 1
-            else:
-                pre = '*'
-                patternIndex -= 1
-
-        if patternIndex == -1:
+        if s == '' and pattern == '':
             return True
-        else:
+
+        if s != '' and pattern == '':
             return False
+
+        indexS = 0
+        indexP = 0
+        if indexS + 1 >= sizeS:
+            temps = ''
+        else:
+            temps = s[indexS + 1:]
+
+        if indexP + 1 >= sizeP:
+            tempp = ''
+            arrayp = ''
+        else:
+            tempp = pattern[indexP + 1]
+            arrayp = pattern[indexP + 1:]
+
+        if indexP + 2 >= sizeP:
+            arrayp2 = ''
+        else:
+            arrayp2 = pattern[indexP + 2:]
+
+        if s == '':
+            curS = ''
+        else:
+            curS = s[indexS]
+
+        if tempp != '*':
+            if curS == pattern[indexP]:
+                return self.match(temps, arrayp)
+            elif pattern[indexP] == '.' and s != '':
+                return self.match(temps, arrayp)
+            else:
+                return False
+        else:
+            if pattern[indexP] == curS:
+                return self.match(temps, pattern) or self.match(s, arrayp2)
+            elif pattern[indexP] == '.' and s != '':
+                return self.match(temps, pattern) or self.match(s, arrayp2)
+            else:
+                return self.match(s, arrayp2)
 
 
 s = Solution()
-print s.match('', '.*')
-
+print s.match("bbbba", ".*a*a")
 '''
 aaa
 ab*ac*a
