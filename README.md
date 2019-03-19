@@ -8,7 +8,7 @@
 
 - [从尾到头打印链表](./SwordToOffer/Doc/从尾到头打印链表.md)
 
-- [重建二叉树](./SwordToOffer/Doc/重建二叉树.md)
+- [**重建二叉树**](./SwordToOffer/Doc/重建二叉树.md)
 
 - [用两个栈实现队列](./SwordToOffer/Doc/用两个栈实现队列.md)
 
@@ -16,7 +16,7 @@
 
 - [跳台阶](./SwordToOffer/Doc/跳台阶.md)
 
-- [变态跳台阶](./SwordToOffer/Doc/变态跳台阶.md)
+- [**变态跳台阶**](./SwordToOffer/Doc/变态跳台阶.md)
 
 - [***矩形覆盖***](./SwordToOffer/Doc/矩形覆盖.md)
 
@@ -26,7 +26,7 @@
 
 - [调整数组顺序使奇数位于偶数前面](./SwordToOffer/Doc/调整数组顺序使奇数位于偶数前面.md)
 
-- [链表中倒数第k个节点](./SwordToOffer/Doc/链表中倒数第k个节点.md)
+- [链表中倒数第k**个节点**](./SwordToOffer/Doc/链表中倒数第k个节点.md)
 
 - [反转链表](./SwordToOffer/Doc/反转链表.md)
 
@@ -46,7 +46,7 @@
 
 - [***二叉搜索树的后序遍历***](./SwordToOffer/Doc/二叉搜索树的后序遍历.md)
 
-- [二叉树中和为某一数的路径](./SwordToOffer/Doc/二叉树中和为某一数的路径.md)
+- [**二叉树中和为某一数的路径**](./SwordToOffer/Doc/二叉树中和为某一数的路径.md)
 
 - [***复杂链表的复制***](./SwordToOffer/Doc/复杂链表的复制.md)
 
@@ -56,9 +56,9 @@
 
 - [***数组中出现次数超过一半的数字***](./SwordToOffer/Doc/数组中出现次数超过一半的数字.md)
 
-- [最小的K个数](./SwordToOffer/Doc/最小的K个数.md)
+- [**最小的K个数**](./SwordToOffer/Doc/最小的K个数.md)
 
-- [连续子数组的最大和](./SwordToOffer/Doc/连续子数组的最大和.md)
+- [**连续子数组的最大和**](./SwordToOffer/Doc/连续子数组的最大和.md)
 
 - [把数组排成最小的数](./SwordToOffer/Doc/把数组排成最小的数.md)
 
@@ -67,8 +67,6 @@
 - [***丑数***](./SwordToOffer/Doc/丑数.md)
 
 - [第一次只出现一次的字符](./SwordToOffer/Doc/第一次只出现一次的字符.md)
-
-- [数组中的逆序对](./SwordToOffer/Doc/数组中的逆序对.md)
 
 - [两个链表的第一个公共节点](./SwordToOffer/Doc/两个链表的第一个公共节点.md)
 
