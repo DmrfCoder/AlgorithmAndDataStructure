@@ -41,6 +41,7 @@ public class Solution {
                     treeNodeQueue.offer(null);
                 }
             } else {
+                //判断当前节点是否是叶子节点
                 if (curNode.left == null && curNode.right == null) {
                     return minDepth;
                 }
