@@ -13,4 +13,4 @@
 
 ## 代码
 
-[这里](../Code/n.py)
+[这里](../src/n/Solution.java)
