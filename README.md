@@ -142,5 +142,6 @@
 
 # LeetCode
 
-- [求解二叉树的最小深度](./LeetCode/Doc/二叉树的最小深度.md)
+- [minimum-depth-of-binary-tree(求解二叉树的最小深度)](./LeetCode/Doc/二叉树的最小深度.md)
+- [evaluate-reverse-polish-notation(计算逆波兰式的值)](./LeetCode/Doc/计算逆波兰式的值.md)
 
