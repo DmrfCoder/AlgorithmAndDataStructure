@@ -149,4 +149,5 @@
 - [insertion-sort-list(使用插入排序对链表进行排序)](./LeetCode/Doc/使用插入排序对链表进行排序.md)
 - [binary-tree-postorder-traversal（后序遍历二叉树）](./LeetCode/Doc/后序遍历二叉树.md)
 - [binary-tree-preorder-traversal（先序遍历二叉树）](./LeetCode/Doc/先序遍历二叉树.md)
+- [reorder-list（链表重排序）](./LeetCode/Doc/链表重排序.md)
 
