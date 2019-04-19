@@ -154,4 +154,5 @@
 - [linked-list-cycle(判断链表中是否存在环)](./LeetCode/Doc/判断链表中是否存在环.md)
 - [word-break（单词切分）](./LeetCode/Doc/单词切分.md)
 - [word-break-ii（单词切分2）](./LeetCode/Doc/单词切分2.md)
+- [copy-list-with-random-pointer(拷贝具有随机指针的链表)](./LeetCode/Doc/拷贝具有随机指针的链表.md)
 
