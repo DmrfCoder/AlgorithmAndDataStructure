@@ -41,3 +41,5 @@ public class Solution {
         System.out.println(solution.wordBreak("aaaaaaa", dict));
     }
 }
+
+
