@@ -155,4 +155,8 @@
 - [word-break（单词切分）](./LeetCode/Doc/单词切分.md)
 - [word-break-ii（单词切分2）](./LeetCode/Doc/单词切分2.md)
 - [copy-list-with-random-pointer(拷贝具有随机指针的链表)](./LeetCode/Doc/拷贝具有随机指针的链表.md)
+- [single-number(出现一次的数)](./LeetCode/Doc/出现一次的数.md)
+- [**single-number-ii(出现一次的数2)**](./LeetCode/Doc/出现一次的数2.md)
+
+
 
