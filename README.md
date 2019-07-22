@@ -157,6 +157,7 @@
 - [copy-list-with-random-pointer(拷贝具有随机指针的链表)](./LeetCode/Doc/拷贝具有随机指针的链表.md)
 - [single-number(出现一次的数)](./LeetCode/Doc/出现一次的数.md)
 - [**single-number-ii(出现一次的数2)**](./LeetCode/Doc/出现一次的数2.md)
+- [candy（糖果问题）](./LeetCode/Doc/糖果问题.md)
 
 
 
