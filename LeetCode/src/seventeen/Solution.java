@@ -94,8 +94,8 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        int[] gas = {2, 3, 1};
-        int[] cost = {3, 1, 2};
+        int[] gas = {3, 2, 5, 3, 4, 3};
+        int[] cost = {2, 3, 4, 4, 3, 4};
         int index = solution.canCompleteCircuit(gas, cost);
         System.out.println("startIndex is: " + index);
 
